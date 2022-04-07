@@ -1,6 +1,6 @@
 ---
 name: Typo / inaccuracy / out-of-date information
-about: Create a report to help us improve
+about: So you've spotted something off! Let's get it fixed!
 title: ''
 labels: ''
 assignees: fasterthanlime
